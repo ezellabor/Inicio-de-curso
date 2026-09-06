@@ -37,12 +37,12 @@ gantt
 
 ---
 
-## 2. ESQUEMA FASE A FASE DEL ITINERARIO Y EVALUACIONES
+## 2. ITINERARIO Y EVALUACIONES DEL CURSO 2026-2027
 
 ```mermaid
 flowchart TD
     subgraph F1["FASE 1: Inicio y Diagnóstico (Sept - Oct 2026)"]
-        A["1 Sep: Comienzo del Curso 2026-2027"] --> B["Acogida, RRI y Alta en Raíces/Roble y Aula Virtual"]
+        A["11 Sep: Comienzo del Curso 2026-2027"] --> B["Acogida, RRI y Alta en Raíces/Roble y Aula Virtual"]
         B --> C["Diagnóstico inicial y detección de NEAE"]
         C --> D["<b>EVALUACIÓN INICIAL</b><br/><i>(Sin impacto cuantitativo)</i>"]
     end
@@ -82,7 +82,7 @@ flowchart TD
 
 | Hito / Evaluación | Periodo Estimado | Marco Normativo | Finalidad y Contenido Principal |
 | :--- | :--- | :--- | :--- |
-| **Inicio de Curso** | 1 de Septiembre de 2026 | Calendario Escolar CAM | Presentación del ciclo, Reglamento de Régimen Interior (RRI) y alta en plataformas (Raíces/Roble/Aula Virtual). |
+| **Inicio de Curso** | 11 de Septiembre de 2026 | Calendario Escolar CAM | Presentación del ciclo, Reglamento de Régimen Interior (RRI) y alta en plataformas (Raíces/Roble/Aula Virtual). |
 | **Evaluación Inicial** | Finales de Octubre 2026 | RD 659/2023 | Detección de nivel formativo previo, hábitos de estudio y coordinación con el Departamento de Orientación (NEAE). |
 | **1.ª Evaluación Parcial** | Mediados de Diciembre 2026 | Orden 893/2022 | Primera valoración cuantitativa de los Resultados de Aprendizaje (RA) y comunicación formal a familias. |
 | **2.ª Evaluación Parcial** | Inicios de Marzo 2027 | Orden 893/2022 | Cierre del bloque lectivo intensivo de aula y comprobación de aptitud para el acceso a empresa. |
@@ -92,7 +92,7 @@ flowchart TD
 
 ---
 
-## 4. MATRIZ DE CONTROL DE ASISTENCIA Y MATRÍCULA
+## 4. CONTROL DE ASISTENCIA Y MATRÍCULA
 
 | Tipo de Medida | Umbral de Faltas / Causa | Efecto Administrativo / Académico | Procedimiento y Competencia |
 | :--- | :--- | :--- | :--- |
@@ -102,7 +102,7 @@ flowchart TD
 
 ---
 
-## 5. MATRIZ DE JUSTIFICACIÓN DOCUMENTAL DE AUSENCIAS
+## 5. JUSTIFICACIÓN DE AUSENCIAS
 
 | Causa de la Ausencia | Documentación Oficial Requerida | Plazo de Entrega |
 | :--- | :--- | :--- |
