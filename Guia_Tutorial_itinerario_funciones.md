@@ -1,7 +1,7 @@
-# IES JUAN DE LA CIERVA (MADRID)
-## Guía Integral de Tutoría: Itinerario, Funciones y Régimen de Asistencia en FP
+# Guía Integral de Tutoría: Itinerario, Funciones y Régimen de Asistencia en FP
 
 - **Curso Académico:** 2026-2027
+- **Centro:** IES Juan de la Cierva (Madrid)
 - **Familia Profesional:** Informática y Comunicaciones
 - **Ciclo Formativo:** Grado Medio en Sistemas Microinformáticos y Redes (SMR)
 - **Marco Normativo:** Ley Orgánica 3/2022, Real Decreto 659/2023, Orden 893/2022 (Comunidad de Madrid)
