@@ -41,10 +41,10 @@ gantt
 
 ```mermaid
 flowchart TD
-    subgraph F1["FASE 1: Inicio y Diagnóstico (Sept - Oct 2026)"]
-        A["11 Sep: Comienzo del Curso 2026-2027"] --> B["Acogida, RRI y Alta en Raíces/Roble y Aula Virtual"]
-        B --> C["Diagnóstico inicial y detección de NEAE"]
-        C --> D["<b>EVALUACIÓN INICIAL</b><br/><i>(Sin impacto cuantitativo)</i>"]
+    subgraph F1["FASE 1: Inicio y Evaluación inicial (Sept - Oct 2026)"]
+        A["11 Sep: Comienzo del Curso 2026-2027"] --> B["Acogida, Alta en Raíces/Roble y Aula Virtual"]
+        B --> C["Introducción de Módulos (Montaje, Redes, Sistemas, etc.)"]
+        C --> D["Atención tutorial y control semanal de asistencia"]
     end
 
     subgraph F2["FASE 2: 1.er Trimestre y Formación Troncal (Nov - Dic 2026)"]
@@ -54,14 +54,14 @@ flowchart TD
     end
 
     subgraph F3["FASE 3: 2.º Trimestre y Preparación Dual (Ene - Mar 2027)"]
-        G --> H["Cierre de bloques teóricos/prácticos de aula"]
+        G --> H["Impartición de Módulos (Montaje, Redes, Sistemas, etc.)"]
         H --> I["Asignación de plazas en empresas de TI"]
         I --> J["<b>2.ª EVALUACIÓN PARCIAL</b><br/><i>(Verificación de requisitos pre-empresa)</i>"]
     end
 
     subgraph F4["FASE 4: Formación en Empresa y Cierre (Mar - Jun 2027)"]
         J --> K["Incorporación a la Formación Dual / FCT en Empresa"]
-        K --> L["Seguimiento de bitácora y tutoría de empresa"]
+        K --> L["Seguimiento y tutoría de prácticas de empresa"]
         L --> M["<b>EVALUACIÓN FINAL ORDINARIA</b><br/><i>(Calificación global)</i>"]
         M --> N{"¿Módulos pendientes?"}
         N -- Sí --> O["Periodo de Recuperación e <b>EVALUACIÓN EXTRAORDINARIA</b>"]
