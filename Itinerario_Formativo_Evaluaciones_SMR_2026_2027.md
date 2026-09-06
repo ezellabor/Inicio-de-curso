@@ -1,6 +1,6 @@
-# IES JUAN DE LA CIERVA (MADRID)
-## Guía e Itinerario Formativo Temporal y Evaluaciones (Curso 2026-2027)
+# Itinerario formativo y evaluaciones del curso 2026-2027
 
+- **Centro:** IES Juan de la Cierva (Madrid)  
 - **Familia Profesional:** Informática y Comunicaciones
 - **Ciclo Formativo:** Grado Medio en Sistemas Microinformáticos y Redes (SMR)
 - **Fecha de Inicio de Curso:** 1 de Septiembre de 2026
@@ -8,7 +8,7 @@
 
 ---
 
-## 1. LÍNEA TEMPORAL GENERAL DEL CURSO 2026-2027
+## 1. LÍNEA TEMPORAL DEL CURSO 2026-2027
 
 ```mermaid
 gantt
