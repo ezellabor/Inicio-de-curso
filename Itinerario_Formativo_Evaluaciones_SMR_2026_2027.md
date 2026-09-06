@@ -8,11 +8,11 @@
 
 ---
 
-## 1. LÍNEA TEMPORAL DEL CURSO 2026-2027
+## 1. CRONOGRAMA DEL CURSO 2026-2027
 
 ```mermaid
 gantt
-    title Cronograma del Curso Académico 2026-2027 (Grado Medio SMR)
+    title Curso académico 2026-2027 (Grado Medio 1º SMR)
     dateFormat  YYYY-MM-DD
     axisFormat  %b %Y
 
