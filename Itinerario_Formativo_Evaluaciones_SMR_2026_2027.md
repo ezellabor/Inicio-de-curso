@@ -3,7 +3,7 @@
 - **Centro:** IES Juan de la Cierva (Madrid)  
 - **Familia Profesional:** Informática y Comunicaciones
 - **Ciclo Formativo:** Grado Medio en Sistemas Microinformáticos y Redes (SMR)
-- **Fecha de Inicio de Curso:** 1 de Septiembre de 2026
+- **Fecha de Inicio de Curso:** 11 de Septiembre de 2026
 - **Marco Normativo:** Ley Orgánica 3/2022, Real Decreto 659/2023 y Orden 893/2022 (Comunidad de Madrid)
 
 ---
