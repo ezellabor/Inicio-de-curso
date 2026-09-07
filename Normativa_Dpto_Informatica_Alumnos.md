@@ -1,4 +1,4 @@
-# Normativa del Departamento de Informática
+# Normativa del Departamento de Informática (Para Alumnado)
 **Ciclos Formativos de Grado Medio (GM) y Grado Superior (GS)**
 
 ---
