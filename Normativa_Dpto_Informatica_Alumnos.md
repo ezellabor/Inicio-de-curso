@@ -1,5 +1,5 @@
 # Normativa del Departamento de Informática 
-**Para alumnado de Ciclos Formativos de Grado Medio (GM) y Grado Superior (GS)**
+**Alumnado de Ciclos Formativos de Grado Medio (GM) y Grado Superior (GS)**
 
 ---
 
