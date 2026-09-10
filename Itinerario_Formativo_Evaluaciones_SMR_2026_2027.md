@@ -97,7 +97,7 @@ flowchart TD
 | Tipo de Medida | Umbral de Faltas / Causa | Efecto Administrativo / Académico | Procedimiento y Competencia |
 | :--- | :--- | :--- | :--- |
 | **Aviso Preventivo** | ~10% de faltas lectivas acumuladas | Aviso formal por escrito | Notificación por Roble/Raíces emitida por el Tutor/a a las familias. |
-| **Pérdida de Evaluación Continua** | 15% – 20% de faltas lectivas del módulo | Mantiene la matrícula y asistencia. Pierde pruebas parciales y realiza examen final/global. | Aplicación según Criterios de la Programación Didáctica / RRI. |
+| **Pérdida de Evaluación Continua** | 15% – 20% de faltas lectivas del módulo | Mantiene la matrícula y asistencia. Pierde pruebas parciales y realiza examen final/global. | Aplicación según Criterios de la Programación Didáctica <!-- / RRI.--> |
 | **Anulación de Matrícula de Oficio** | ≥ 15% de faltas injustificadas globales **O** 15 días lectivos consecutivos sin justificar | Pérdida definitiva de la plaza y de la condición de alumno (Art. 22 Orden 893/2022). | Tramitación por Jefatura de Estudios y Resolución firmada por Dirección del IES. |
 
 ---
